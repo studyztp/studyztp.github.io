@@ -1,152 +1,218 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Zhantong Qiu",
+    "email": "studyztp@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://studyztp.github.io",
+    "summary": "Computer architecture researcher focusing on computer system performance evaluation, simulation methodology, and hardware-software co-design for emerging applications. I build novel frameworks for fast, accurate, and portable computer system performance evaluation using sampled simulation.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Ithaca",
       "countryCode": "US",
-      "region": ""
+      "region": "New York"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "studyztp",
+        "url": "https://github.com/studyztp"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "zhantong-qiu-60165a165",
+        "url": "https://www.linkedin.com/in/zhantong-qiu-60165a165/"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "Graduate Researcher",
+      "position": "Graduate Researcher",
+      "startDate": "2023-06-01",
+      "endDate": "",
+      "summary": "DArchR Lab, UC Davis. Advisor: Jason Lowe-Power. Working on Nugget (LLVM IR sampling framework), LoopPoint validation, and gem5 contributions.",
+      "highlights": []
+    },
+    {
+      "name": "Visiting Student",
+      "position": "Visiting Student",
+      "startDate": "2025-08-01",
+      "endDate": "",
+      "summary": "Computer Systems Laboratory, Cornell University. Advisor: Christopher Batten. Working on agile robotic hardware-software co-design and STM32G4 MCU modeling in gem5.",
+      "highlights": []
+    },
+    {
+      "name": "Undergraduate Researcher",
+      "position": "Undergraduate Researcher",
+      "startDate": "2022-06-01",
+      "endDate": "2023-06-01",
+      "summary": "DArchR Lab, UC Davis. Advisor: Jason Lowe-Power. Implemented SimPoint and LoopPoint support in gem5.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "University of California, Davis",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2023-09-01",
+      "endDate": "2026-06-01",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "Cornell University",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Visiting Student",
+      "startDate": "2025-09-01",
+      "endDate": "2026-06-01",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "University of California, Davis",
+      "area": "Computer Science and Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2020-09-01",
+      "endDate": "2023-06-01",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Expert",
+      "keywords": ["C/C++", "Python", "Bash", "CUDA", "Assembly", "LaTeX"]
+    },
+    {
+      "name": "Hardware Description Languages",
+      "level": "Intermediate",
+      "keywords": ["Chisel"]
+    },
+    {
+      "name": "System Evaluation Tools",
+      "level": "Expert",
+      "keywords": ["gem5", "QEMU"]
+    },
+    {
+      "name": "Profiling & Instrumentation",
+      "level": "Expert",
+      "keywords": ["LLVM passes", "DynamoRIO", "Valgrind", "Linux perf", "PAPI"]
+    },
+    {
+      "name": "Linux Tools",
+      "level": "Expert",
+      "keywords": ["cpuset", "CRIU", "cgroups", "Docker"]
+    },
+    {
+      "name": "Compilers",
+      "level": "Intermediate",
+      "keywords": ["GCC/G++", "GFortran", "Clang/LLVM"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Cantonese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Computer Architecture",
+      "keywords": ["Performance Evaluation", "Simulation", "Hardware-Software Co-design"]
+    },
+    {
+      "name": "Robotic Applications",
+      "keywords": ["Tiny Robots", "HPC Workloads"]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Nugget: Portable Program Snippets",
+      "publisher": "HPCA 2026",
+      "releaseDate": "2026-02-22",
+      "website": "https://arxiv.org/abs/2509.02873",
+      "summary": "Introduces an LLVM IR-based sampling framework that turns long-running workloads into portable program snippets which can be analyzed once, then reused across binaries, ISAs, and microarchitectures. Achieves up to 100x+ speedup versus functional simulation on SPEC CPU2017, NPB, and LSMS workloads."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Accelerating the Simulation of Parallel Workloads using Loop-Bounded Checkpoints",
+      "publisher": "ACM TACO (Under Review)",
+      "releaseDate": "2025-01-08",
+      "website": "",
+      "summary": "Proposed LoopPoint, a synchronization-agnostic loop-based sampling methodology that enables fast, accurate simulation of multi-threaded workloads via loop-bounded checkpoints, achieving up to 801x speedup on SPEC CPU2017 with ~2.3% average runtime error."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "LoopPoint Tools: Sampled Simulation of Complex Multi-threaded Workloads using Sniper and gem5",
+      "event": "HPCA 2023",
+      "date": "2023-02-25",
+      "location": "Montreal, Canada",
+      "description": "Tutorial on LoopPoint sampling methodology"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "gem5 Workshop",
+      "event": "ISCA 2023",
+      "date": "2023-06-17",
+      "location": "Orlando, FL, USA",
+      "description": "Workshop on gem5 simulator"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "gem5 Bootcamp 2024",
+      "event": "gem5 Bootcamp",
+      "date": "2024-08-01",
+      "location": "Virtual",
+      "description": "Bootcamp on gem5 simulation framework"
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "ECS 154B: Computer Architecture",
+      "institution": "University of California, Davis",
+      "date": "2024-01-01",
+      "role": "Teaching Assistant",
+      "description": "Led weekly discussion sections and office hours; created assignment material on Chisel-based CPU model (DINO CPU)."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Computer Systems Seminar at UC Davis",
+      "category": "Founder",
+      "date": "2024-01-01",
+      "url": "https://arch.cs.ucdavis.edu/events/computer-system-seminar",
+      "description": "Organized weekly speaker series with 12+ talks from academia and industry (ongoing)."
+    },
+    {
+      "name": "gem5 Repository Contributions",
+      "category": "Open Source",
+      "date": "2022-01-01",
+      "url": "https://github.com/gem5/gem5/commits?author=studyztp",
+      "description": "Author of 50+ commits to the gem5 simulator, including full-system sampling support and related simulation features."
+    },
+    {
+      "name": "CXL Shared Memory Filesystem Optimization",
+      "category": "Course Project",
+      "date": "2024-01-01",
+      "url": "https://github.com/orgs/ECS-289D/repositories",
+      "description": "Investigated application needs in a CXL shared-memory system and improved the FAMFS framework with efficient allocation/deallocation and zero-copy operations."
+    },
+    {
+      "name": "CUDA Microbenchmarks",
+      "category": "Course Project",
+      "date": "2024-01-01",
+      "url": "https://github.com/studyztp/CUDA_microbenchmarks.git",
+      "description": "Developed configurable microbenchmarks to measure shared-memory latency and memory-scaling behavior on GPUs."
     }
   ]
 }
