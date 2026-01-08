@@ -5,7 +5,7 @@ type: "Bootcamp"
 permalink: /talks/2024-08-01-gem5-bootcamp
 venue: "gem5 Bootcamp"
 date: 2024-08-01
-location: "Virtual"
+location: "UC Davis, California"
 ---
 
 ## Overview
