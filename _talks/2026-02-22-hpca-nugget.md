@@ -6,6 +6,7 @@ permalink: /talks/2026-hpca-nugget
 venue: "HPCA 2026"
 date: 2026-02-22
 location: "Sydney, Australia"
+excerpt: "Presentation of the Nugget paper on portable program snippets for efficient workload characterization and simulation."
 ---
 
 ## Overview

@@ -6,6 +6,7 @@ permalink: /talks/2026-llvm-cgo-nugget
 venue: "LLVM-CGO-2026 Workshop"
 date: 2026-02-22
 location: "Sydney, Australia"
+excerpt: "Technique talk on integrating Nugget with LLVM infrastructure for advanced workload sampling and analysis at CGO 2026."
 ---
 
 ## Overview

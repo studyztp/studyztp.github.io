@@ -6,6 +6,7 @@ permalink: /teaching/2024-winter-ecs154b
 venue: "University of California, Davis"
 date: 2024-01-01
 location: "Davis, California"
+excerpt: "Teaching Assistant for ECS 154B Computer Architecture course at UC Davis, covering processor design, memory systems, and performance evaluation."
 ---
 
 ## Course Overview

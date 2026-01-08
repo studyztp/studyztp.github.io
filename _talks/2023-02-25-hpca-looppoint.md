@@ -6,6 +6,7 @@ permalink: /talks/2023-02-25-hpca-looppoint
 venue: "HPCA 2023"
 date: 2023-02-25
 location: "Montreal, Canada"
+excerpt: "Tutorial on LoopPoint sampling methodology and tools for efficiently simulating complex multi-threaded workloads using Sniper and gem5 simulators."
 ---
 
 ## Overview
