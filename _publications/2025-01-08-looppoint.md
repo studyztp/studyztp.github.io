@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-01-08-looppoint-sampling
 excerpt: "LoopPoint: A synchronization-agnostic loop-based sampling methodology that enables fast, accurate simulation of multi-threaded workloads via loop-bounded checkpoints."
-date: 2025-01-08
+date: TBD
 venue: 'ACM Transactions on Architecture and Code Optimization (TACO)'
 status: 'Under Review'
 paperurl: ''

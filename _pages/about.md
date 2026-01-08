@@ -21,7 +21,7 @@ I tackle challenging problems in constrained systems—from tiny robots to datac
 
 - **Nugget**: An LLVM IR-based sampling framework that enables portable, fast, and accurate analysis of long-running workloads across different ISAs and microarchitectures
 - **gem5 Contributions**: Active contributor to the gem5 simulator with 50+ commits on full-system sampling and simulation features
-- **closed-loop robotic simulation with gem5**: A framework that integrates computer architecture simulation with robotic simulation to reduce the sim-to-real gap with high scalability.
+- **Closed-loop robotic simulation with gem5**: A framework that integrates computer architecture simulation with robotic simulation to reduce the sim-to-real gap with high scalability.
 
 ## Publications
 
