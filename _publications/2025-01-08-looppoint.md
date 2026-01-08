@@ -8,7 +8,7 @@ date: 2025-01-08
 venue: 'ACM Transactions on Architecture and Code Optimization (TACO)'
 status: 'Under Review'
 paperurl: ''
-citation: 'Sabu, A., Qiu, Z., Patil, H., Liu, C., Heirman, W., Lowe-Power, J., & Carlson, T. E. (2025). Accelerating the Simulation of Parallel Workloads using Loop-Bounded Checkpoints. Under review at ACM TACO.'
+citation: TBD
 ---
 
 ## Abstract
