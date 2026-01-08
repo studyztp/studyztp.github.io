@@ -9,37 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
+📄 **[Download PDF CV](/files/Zhantong_Qiu_CV.pdf)**
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Science in Computer Science, University of California, Davis, Fall 2023 – Spring 2026 (expected)
+* Visiting Student in Electrical and Computer Engineering, Cornell University, Fall 2025 – Spring 2026
+* Bachelor of Science in Computer Science and Engineering, University of California, Davis, Fall 2020 – Spring 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2023 – Present: Graduate Researcher
+  * DArchR Lab, UC Davis
+  * Duties included: Designed and implemented Nugget LLVM IR sampling framework; validated LoopPoint samples in gem5; made 50+ upstream contributions to gem5
+  * Advisor: Professor Jason Lowe-Power
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2025 – Present: Visiting Student
+  * Computer Systems Laboratory, Cornell University
+  * Duties included: Developing closed-loop multi-robot evaluation framework; building accurate STM32G4 MCU model in gem5
+  * Advisor: Professor Christopher Batten
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2022 – June 2023: Undergraduate Researcher
+  * DArchR Lab, UC Davis
+  * Duties included: Implemented SimPoint and LoopPoint support in gem5; added generalized PC-execution counter for tracking
+  * Advisor: Professor Jason Lowe-Power
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**: C/C++, Python, Bash, CUDA, Assembly, LaTeX
+* **Hardware Description Languages**: Chisel
+* **System Evaluation Tools**: gem5, QEMU
+* **Profiling & Instrumentation**: LLVM passes, DynamoRIO, Valgrind, Linux perf, PAPI
+* **Linux Tools**: cpuset, CRIU, cgroups, Docker
+* **Compilers**: GCC/G++, GFortran, Clang/LLVM
+* **Languages**: English (native), Cantonese (native), Mandarin (professional)
 
 Publications
 ======
@@ -58,7 +61,8 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Founder, Computer Systems Seminar at UC Davis - Organized weekly speaker series with 12+ talks from academia and industry (ongoing)
+* Active contributor to gem5 open-source simulator - 50+ commits on full-system sampling and simulation features
