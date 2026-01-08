@@ -22,7 +22,7 @@ repository               : "studyztp/studyztp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my-headshot.png"
+  avatar           : "my-headshot.jpg"
   name             : "Zhantong Qiu"
   pronouns         : # example: "she/her"  
   bio              : "Computer systems researcher focusing on performance evaluation, simulation, and hardware-software co-design"
