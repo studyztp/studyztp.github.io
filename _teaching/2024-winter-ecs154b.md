@@ -15,10 +15,10 @@ ECS 154B is a comprehensive course on computer architecture, covering fundamenta
 
 ## Teaching Responsibilities
 
-- Led weekly discussion sections with 20+ students
+- Led weekly discussion sections with 50+ students
 - Held office hours to help students with assignments and concepts
 - Created assignment material on Chisel-based CPU model (DINO CPU)
-- Graded exams and provided detailed feedback
+- Graded and provided detailed feedback assignments and exams
 
 ## Key Topics Covered
 
@@ -27,6 +27,7 @@ ECS 154B is a comprehensive course on computer architecture, covering fundamenta
 - Chisel hardware description language
 - DINO CPU implementation project
 - Memory hierarchy and caching
+- Virtual memory
 - Performance metrics and optimization
 
 ## Learning Outcomes
