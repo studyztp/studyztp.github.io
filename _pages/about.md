@@ -11,6 +11,8 @@ I am a computer architecture researcher passionate about building frameworks for
 
 I will graduate in Spring 2026 and am currently looking for a full-time position in industry.
 
+📄 **[Download PDF CV](/files/Zhantong_Qiu_CV.pdf)**
+
 ## Current Work
 
 I'm currently pursuing my **Master's degree in Computer Science at UC Davis** (expected graduation Spring 2026), focusing on high-performance computing system optimization and evaluation, advised by **Professor Jason Lowe-Power**. I'm also working as a visiting student at **Cornell University** on robotic hardware-software co-design and embedded systems simulation, advised by **Professor Christopher Batten**.
