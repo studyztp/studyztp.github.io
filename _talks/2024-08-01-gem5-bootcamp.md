@@ -1,11 +1,13 @@
 ---
-title: "gem5 Bootcamp 2024"
+title: "gem5 Bootcamp"
 collection: talks
 type: "Bootcamp"
 permalink: /talks/2024-08-01-gem5-bootcamp
 venue: "gem5 Bootcamp"
 date: 2024-08-01
-location: "UC Davis, California"excerpt: "Hands-on bootcamp training on gem5 simulator fundamentals, architecture simulation, and advanced simulation techniques for computer architecture research."---
+location: "UC Davis, California"
+excerpt: "Hands-on bootcamp training on gem5 simulator fundamentals, architecture simulation, and advanced simulation techniques for computer architecture research."
+---
 
 ## Overview
 

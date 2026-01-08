@@ -1,11 +1,13 @@
 ---
-title: "gem5 Workshop"
+title: "ISCA gem5 Workshop"
 collection: talks
 type: "Workshop"
 permalink: /talks/2023-06-17-isca-gem5-workshop
 venue: "ISCA 2023"
 date: 2023-06-17
-location: "Orlando, FL, USA"excerpt: "Comprehensive workshop on the gem5 simulator, covering architecture modeling, simulation methodology, and practical applications in computer architecture research."---
+location: "Orlando, FL, USA"
+excerpt: "Comprehensive workshop on the gem5 simulator, covering architecture modeling, simulation methodology, and practical applications in computer architecture research."
+---
 
 ## Overview
 
