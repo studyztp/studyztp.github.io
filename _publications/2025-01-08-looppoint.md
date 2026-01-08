@@ -1,6 +1,7 @@
 ---
 title: "Accelerating the Simulation of Parallel Workloads using Loop-Bounded Checkpoints"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-08-looppoint-sampling
 excerpt: "LoopPoint: A synchronization-agnostic loop-based sampling methodology that enables fast, accurate simulation of multi-threaded workloads via loop-bounded checkpoints."
 date: 2025-01-08
