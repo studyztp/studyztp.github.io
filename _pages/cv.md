@@ -67,15 +67,12 @@ Teaching
 
 Service and leadership
 ======
-* **Teaching Experience**: WQ 2024 ECS 154B: Computer Architecture Teaching Assistant
-  - Led weekly discussion sections and office hours; created assignment material on Chisel-based CPU model (DINO CPU).
-
 * **Founder, Computer Systems Seminar at UC Davis**
   - Organized weekly speaker series with 12+ talks from academia and industry (ongoing).
 
-* **Active contributor to gem5 open-source simulator**
-  - 50+ commits on full-system sampling and simulation features.
-
+* **HPCA 2026 Artifact Evaluation Reviewer**
+  - Helped reviewing the artifact of the accepted paper.
+   
 Course Projects
 ======
 * **[CXL Shared Memory Filesystem Optimization](https://github.com/orgs/ECS-289D/repositories)**

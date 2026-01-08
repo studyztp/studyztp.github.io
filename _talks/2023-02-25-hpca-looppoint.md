@@ -13,14 +13,8 @@ excerpt: "Tutorial on LoopPoint sampling methodology and tools for efficiently s
 
 This tutorial presented the LoopPoint sampling methodology and tools for efficiently simulating complex multi-threaded workloads using both the Sniper and gem5 simulators.
 
-## Key Topics
+The link to the official website: [https://looppoint.github.io/hpca2023/](https://looppoint.github.io/hpca2023/)
 
-- Loop-based sampling methodology for parallel workloads
-- Synchronization handling in sampled simulation
-- Integration with gem5 and Sniper simulators
-- Practical examples and case studies
-- Performance analysis and validation techniques
+## Presentation slides
 
-## Resources
-
-For more information on LoopPoint, visit: [https://looppoint.github.io/hpca2023/](https://looppoint.github.io/hpca2023/)
+- [Using LoopPoint with gem5](https://looppoint.github.io/pdf/tutorial_hpca23.pdf)

@@ -13,14 +13,11 @@ excerpt: "Comprehensive workshop on the gem5 simulator, covering architecture mo
 
 A comprehensive workshop on the gem5 computer architecture simulator, covering latest features, best practices, and advanced simulation techniques.
 
-## Topics Covered
+The link to the official website: [https://www.gem5.org/events/isca-2023](https://www.gem5.org/events/isca-2023)
 
-- Introduction to gem5 architecture and components
-- Full-system and system-call emulation modes
-- Performance modeling and simulation accuracy
-- Memory hierarchy simulation
-- Recent improvements and new features
-- Community contributions and development workflow
+## Presentation slides
+
+- [LoopPoint in the gem5 Simulator](https://www.gem5.org/assets/files/workshop-isca-2023/slides/looppoint-in-the-gem5-simulator.pdf)
 
 ## About gem5
 

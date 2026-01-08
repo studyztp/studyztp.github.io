@@ -15,16 +15,18 @@ An intensive bootcamp on the gem5 simulator providing hands-on training for comp
 
 ## Topics Covered
 
-- gem5 fundamentals and architecture
-- Setting up and configuring simulations
-- Developing custom components
-- Advanced simulation techniques
-- Debugging and performance analysis
-- Real-world application case studies
-- Contributing to the gem5 community
+- Running things in gem5
+- Accelerating simulation
+- Sampled simulation with gem5
+
+## Materials
+
+- [Slides](https://gem5bootcamp.github.io/2024/)
+- [Youtube videos](https://www.youtube.com/playlist?list=PL_hVbFs_loVR_8ntTTmmG6YEq3Po_4snu)
+- [Learning materials](https://github.com/gem5bootcamp/2024)
 
 ## Format
 
-The bootcamp included interactive sessions, tutorials, and hands-on labs designed to build practical skills with the gem5 simulator.
+The bootcamp included interactive sessions, tutorials, and hands-on assignments designed to build practical skills with the gem5 simulator.
 
 Learn more: [https://gem5bootcamp.github.io/2024/](https://gem5bootcamp.github.io/2024/)

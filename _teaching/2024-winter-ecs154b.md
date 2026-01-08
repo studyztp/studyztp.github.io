@@ -12,6 +12,7 @@ excerpt: "Teaching Assistant for ECS 154B Computer Architecture course at UC Dav
 ## Course Overview
 
 ECS 154B is a comprehensive course on computer architecture, covering fundamental concepts in processor design, memory systems, and performance evaluation.
+[Class GitHub repo](https://github.com/jlpteaching).
 
 ## Teaching Responsibilities
 
