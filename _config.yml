@@ -29,7 +29,10 @@ author:
   location         : "Ithaca, New York"
   employer         : "UC Davis & Cornell University"
   uri              : # URL
-  email            : "studyztp@gmail.com" 
+  email            : "studyztp@gmail.com"
+  
+  # Lab affiliation
+  darchr_lab       : "https://arch.cs.ucdavis.edu/people/zhantong-qiu"
 
   # Academic websites
   academia         : # URL
