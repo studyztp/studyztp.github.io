@@ -1,5 +1,5 @@
 ---
-title: "ISCA gem5 Workshop"
+title: "[ISCA 2023] gem5 Workshop"
 collection: talks
 type: "Workshop"
 permalink: /talks/2023-06-17-isca-gem5-workshop

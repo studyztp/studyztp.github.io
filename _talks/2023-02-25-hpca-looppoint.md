@@ -1,5 +1,5 @@
 ---
-title: "LoopPoint Tools: Sampled Simulation of Complex Multi-threaded Workloads using Sniper and gem5"
+title: "[HPCA 2023] LoopPoint Tools: Sampled Simulation of Complex Multi-threaded Workloads using Sniper and gem5"
 collection: talks
 type: "Tutorial"
 permalink: /talks/2023-02-25-hpca-looppoint

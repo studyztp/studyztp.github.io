@@ -1,5 +1,5 @@
 ---
-title: "Nugget: Portable Program Snippets - Accepted Paper Talk"
+title: "[HPCA 2026] Nugget: Portable Program Snippets - Accepted Paper Talk"
 collection: talks
 type: "Main Conference"
 permalink: /talks/2026-hpca-nugget

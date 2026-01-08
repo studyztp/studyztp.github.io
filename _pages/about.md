@@ -27,7 +27,7 @@ I tackle challenging problems in constrained systems—from tiny robots to datac
 
 ## Publications
 
-1. **[Nugget: Portable Program Snippets](/publication/2026-02-22-nugget)** (HPCA 2026, accepted)  
+1. **[Nugget: Portable Program Snippets](/publication/2026-01-31-nugget)** (HPCA 2026, accepted)  
    **Zhantong Qiu**, Mahyar Samani, Jason Lowe-Power  
    LLVM IR-based sampling framework
 
@@ -37,7 +37,7 @@ I tackle challenging problems in constrained systems—from tiny robots to datac
 
 ## Talks
 
-- **[HPCA 2026](/talks/2026-01-31-hpca-nugget)** - Accepted paper talk on Nugget: Portable Program Snippets (Main Conference, Sydney, Australia)
+- **[HPCA 2026](/talks/2026-hpca-nugget)** - Accepted paper talk on Nugget: Portable Program Snippets (Main Conference, Sydney, Australia)
 - **[CGO 2026](/talks/2026-llvm-cgo-nugget)** - Technique talk on Nugget with LLVM infrastructure (LLVM-CGO-2026 Workshop, Sydney, Australia)
 - **[gem5 Bootcamp 2024](/talks/2024-08-01-gem5-bootcamp)** - A week long hands-on training on gem5 simulator (UC Davis, CA)
 - **[HPCA 2023](/talks/2023-02-25-hpca-looppoint)** - LoopPoint Tools: Sampled Simulation of Complex Multi-threaded Workloads using Sniper and gem5 (LoopPoint Tutorial, Montreal, CA)

@@ -1,5 +1,5 @@
 ---
-title: "Nugget with LLVM Infrastructure - LLVM-CGO-2026 Technique Talk"
+title: "[CGO 2026] Nugget with LLVM Infrastructure - LLVM-CGO-2026 Technique Talk"
 collection: talks
 type: "Workshop"
 permalink: /talks/2026-llvm-cgo-nugget
