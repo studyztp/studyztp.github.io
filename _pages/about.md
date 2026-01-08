@@ -42,10 +42,3 @@ I tackle challenging problems in constrained systems—from tiny robots to datac
 - **[CGO 2026](/talks/2026-llvm-cgo-nugget)** - Technique talk on Nugget with LLVM infrastructure (LLVM-CGO-2026 Workshop, Sydney, Australia)
 
 See [all talks](/talks/) for more details.
-
-## Technical Skills
-
-- **Languages**: C/C++, Python, Bash, CUDA, Assembly
-- **Tools**: gem5, QEMU, LLVM, DynamoRIO, Valgrind
-- **Hardware**: Chisel, Arm architecture, RISC-V
-- **System Tools**: Docker, cgroups, cpuset, CRIU
