@@ -38,7 +38,7 @@ I tackle challenging problems in constrained systems—from tiny robots to datac
 - **[HPCA 2023](/talks/2023-02-25-hpca-looppoint)** - LoopPoint Tools: Sampled Simulation of Complex Multi-threaded Workloads using Sniper and gem5 (LoopPoint Tutorial, Montreal, CA)
 - **[ISCA 2023](/talks/2023-06-17-isca-gem5-workshop)** - Technique talk on full-system sampling support in gem5 (gem5 Workshop, Orlando, FL)
 - **[gem5 Bootcamp 2024](/talks/2024-08-01-gem5-bootcamp)** - A week long hands-on training on gem5 simulator (UC Davis, CA)
-- **HPCA 2026** - Accepted paper talk on Nugget: Portable Program Snippets (Main Conference, Sydney, Australia)
+- **[HPCA 2026](/talks/2026-01-31-hpca-nugget)** - Accepted paper talk on Nugget: Portable Program Snippets (Main Conference, Sydney, Australia)
 - **[CGO 2026](/talks/2026-llvm-cgo-nugget)** - Technique talk on Nugget with LLVM infrastructure (LLVM-CGO-2026 Workshop, Sydney, Australia)
 
 See [all talks](/talks/) for more details.
