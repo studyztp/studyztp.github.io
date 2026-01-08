@@ -1,22 +1,27 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "gem5 Bootcamp 2024<br />gem5 Bootcamp; UC Davis, California",
+    38.5337904,
+    -121.7907544
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "LoopPoint Tools: Sampled Simulation of Complex Multi-threaded Workloads using Sniper and gem5<br />HPCA 2023; Montreal, Canada",
+    45.5031824,
+    -73.5698065
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Nugget: Portable Program Snippets - Accepted Paper Talk<br />HPCA 2026; Sydney, Australia",
+    -33.8698439,
+    151.2082848
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "gem5 Workshop<br />ISCA 2023; Orlando, FL, USA",
+    28.5421218,
+    -81.379045
+  ],
+  [
+    "Nugget with LLVM Infrastructure - LLVM-CGO-2026 Technique Talk<br />LLVM-CGO-2026 Workshop; Sydney, Australia",
+    -33.8698439,
+    151.2082848
   ]
 ];
