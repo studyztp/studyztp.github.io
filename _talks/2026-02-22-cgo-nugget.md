@@ -17,7 +17,7 @@ The link to the official website: [https://easychair.org/cfp/LLVM-CGO-2026](http
 
 ## Presentation Slides
 
-TBD
+[Nugget LLVM-CGO-workshop presentation slide](/files/Nugget-LLVM-presentation.pdf)
 
 ## Related Publication
 
