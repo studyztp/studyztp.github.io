@@ -6,7 +6,6 @@ permalink: /publication/2025-01-08-looppoint-sampling
 excerpt: "LoopPoint: A synchronization-agnostic loop-based sampling methodology that enables fast, accurate simulation of multi-threaded workloads via loop-bounded checkpoints (LoopPoint paper extension)."
 date: 2025-01-08
 venue: 'ACM Transactions on Architecture and Code Optimization (TACO)'
-status: 'Under Review'
 paperurl: ''
 citation: TBD
 ---
@@ -21,5 +20,3 @@ This presents a practical methodology for large, realistic workloads where the p
 
 Extension of the LoopPoint paper published in HPCA 2022.
 In this work, we demonstrate the full-system simulation of LoopPoint on gem5 with implementation details, propose ROIperf – a novel technique for sample validation, and release the representative executable checkpoints or ELFies of SPEC CPU2017 benchmarks.
-
-**Status**: Under review at ACM Transactions on Architecture and Code Optimization (TACO)

@@ -17,7 +17,7 @@ Link to official website: [https://2026.hpca-conf.org/details/hpca-2026-main-con
 
 ## Presentation Slides
 
-TBD
+[HPCA 2026 Nugget presentation slide](/files/Nugget-HPCA.pdf)
 
 ## Related Publication
 

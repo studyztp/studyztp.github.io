@@ -27,11 +27,11 @@ I tackle challenging problems in constrained systems—from tiny robots to datac
 
 ## Publications
 
-1. **[Nugget: Portable Program Snippets](/publication/2026-01-31-nugget)** (HPCA 2026, accepted)  
+1. **[Nugget: Portable Program Snippets](/publication/2026-01-31-nugget)** (HPCA 2026)  
    **Zhantong Qiu**, Mahyar Samani, Jason Lowe-Power  
    LLVM IR-based sampling framework
 
-2. **[Accelerating the Simulation of Parallel Workloads](/publication/2025-01-08-looppoint-sampling)** (ACM TACO, under review)  
+2. **[Accelerating the Simulation of Parallel Workloads](/publication/2025-01-08-looppoint-sampling)** (ACM TACO 2025)  
    Alen Sabu, **Zhantong Qiu**, Harish Patil, Changxi Liu, Wim Heirman, Jason Lowe-Power, Trevor E. Carlson  
    LoopPoint methodology full-system extension
 
