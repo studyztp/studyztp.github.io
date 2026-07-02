@@ -168,6 +168,8 @@ exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
+  - .doc
+  - website
   - .bundle
   - .github
   - .jekyll-assets-cache

@@ -8,18 +8,25 @@ redirect_from:
 ---
 
 I am a computer architecture researcher passionate about building frameworks for efficient computer system performance evaluation. My research focuses on **performance evaluation**, **simulation methodology**, and **hardware-software co-design** for emerging applications.
+Solving interesting problems is my biggest motivation. 
 
-I will graduate in Spring 2026 and am currently looking for a full-time position in industry.
+I'm joining [Etched](https://www.etched.com/) in July 2026 as a chip simulation software engineer.
 
 📄 **[Download PDF CV](/files/Zhantong_Qiu_CV.pdf)**
 
-## Current Work
+## Academia Work
 
-I'm currently pursuing my **Master's degree in Computer Science at UC Davis** (expected graduation Spring 2026), focusing on high-performance computing system optimization and evaluation, advised by **Professor Jason Lowe-Power**. I'm also working as a visiting student at **Cornell University** on robotic hardware-software co-design and embedded systems simulation, advised by **Professor Christopher Batten**.
+I graduated from **UC Davis** with a **Master's degree in Computer Science** in **June 2026** and a **BS in Computer Science and Engineering** in **June 2023**. 
+During my final year of undergraduate studies and throughout my Master's, I was advised by **Professor Jason Lowe-Power** on high-performance computing system optimization, simulation, and evaluation.
+
+I also completed a **year-long visit at Cornell University**, ending in **June 2026**, working on robotic compute–software co-simulation infrastructure and co-design, advised by **Professor Christopher Batten**.
+
+Besides leading my own projects, I also collaborated closely with professors and researchers from **top-tier universities** and **Oak Ridge National Laboratory** on projects related to simulation methodology and performance evaluation for various emerging workloads.
 
 ## Research Interests
 
-I tackle challenging problems in constrained systems—from tiny robots to datacenters—by developing solutions that span multiple layers of the computer system stack. My main research contributions include:
+I tackle challenging problems in constrained systems—from tiny robots to datacenters—by developing solutions that span multiple layers of the computer system stack. 
+My main research contributions include:
 
 - **Nugget**: An LLVM IR-based sampling framework that enables portable, fast, and accurate analysis of long-running workloads across different ISAs and microarchitectures
 - **gem5 Contributions**: Active contributor to the gem5 simulator with 50+ commits on full-system sampling and simulation features
@@ -37,6 +44,7 @@ I tackle challenging problems in constrained systems—from tiny robots to datac
 
 ## Talks
 
+- **[ISCA 2026](/talks/2026-isca-gem5-workshop)** - Technique talk on introducing Arm-M class modeling support in gem5 (gem5 Workshop, Raleigh, NC)
 - **[HPCA 2026](/talks/2026-hpca-nugget)** - Accepted paper talk on Nugget: Portable Program Snippets (Main Conference, Sydney, Australia)
 - **[CGO 2026](/talks/2026-llvm-cgo-nugget)** - Technique talk on Nugget with LLVM infrastructure (LLVM-CGO-2026 Workshop, Sydney, Australia)
 - **[gem5 Bootcamp 2024](/talks/2024-08-01-gem5-bootcamp)** - A week long hands-on training on gem5 simulator (UC Davis, CA)
